@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "Running 101",
+    "author": "Jimi K",
+    "url": "www.blogit.fi/jimin",
+    "userId": "5f48de7614fd4d279ce98487"
+}

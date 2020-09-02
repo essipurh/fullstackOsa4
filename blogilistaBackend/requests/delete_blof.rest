@@ -1,0 +1,9 @@
+DELETE http://localhost:3003/api/blogs/5f4cdf261ae4573a3c9d6175
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RpIiwiaWQiOiI1ZjRjYjVlOWZiNDExMTM4NDQ5NTkzOTUiLCJpYXQiOjE1OTg4NzEzNzZ9.V528Tur8eefpOkASz6t-T2u4JqREG2xBQrSFms_4H4w
+
+{
+    "url":"www.blogit.fi/jeminan",
+    "title":"Bloggaajan alkeet 102",
+    "author":"Jemina"
+}
